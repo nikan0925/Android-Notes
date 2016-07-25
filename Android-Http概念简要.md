@@ -197,4 +197,4 @@ json数据解析器:Android中有各种各样的json数据解析器如gson、jac
 
 需翻墙查看[android官网 volley training](https://developer.android.com/training/volley/index.html)
 
-333
+[浅谈Http协议](http://gityuan.com/2015/06/20/http-agreement/)
